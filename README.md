@@ -1,0 +1,2 @@
+# coWElearn-Aspire-to-learn-together
+coWElearn is an online portal which provides a platform for small children to learn some basic concepts with the help of interactive games. During the times of covid pandemic, a huge loss in education was suffered throughout the world. A lot of student did not had the access to education which undermined their over all development . Through this website we aim to provide quality education even in rough times . 
