@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=IBM+Plex+Sans+Condensed:ital,wght@1,600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-image: url(sky.gif);
+  }
+  .wrapper{
+    margin:10%;
+    
+  }
+  /*.wrapper.img1{
+    text-align: center;
+  }*/
+  .text{
+    margin-left: 5px;
+    text-align: center;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+     
+  }
+  .button1 {
+    display: flex;
+    height: 100px;
+    padding: 0;
+    margin-top: 5%;
+    margin-left: 38%;
+    background: rgb(253, 243, 46);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    cursor: pointer;
+    
+  }
+  
+  .button1.hover {
+    background: rgb(220, 177, 37);
+  }
+  
+  .button1:active {
+    background: rgb(220, 177, 37) ;
+  }
+  
+  .button1__text,
+  .button1__icon {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 40px;
+    color: black;
+    height: 100%;
+    text-align: center;
+  }
+  .button1__icon {
+    font-size: 1.5em;
+    background: rgb(253, 243, 46) ;
+  }

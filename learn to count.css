@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-image: url(sky.gif);
+  }
+  .wrapper{
+    margin:10%;
+    
+  }
+  /*.wrapper.img1{
+    text-align: center;
+  }*/
+  .text{
+    margin-left: 5px;
+    text-align: center;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    
+  }
